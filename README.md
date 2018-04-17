@@ -5,3 +5,5 @@ This MVC Help you To Work In Your Enviorment With Package Firendly Like
 - Firebase
 - socialite
 - laravelcollective
+- JWT Auth
+- NPM Moduels Integrated With Vue & React
